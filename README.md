@@ -1,1 +1,1 @@
-# Karaoke Bot Docs
+# Pass The Mic Bot Docs
